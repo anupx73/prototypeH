@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="PrototypeH2.View.BookingPageView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PrototypeH2.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Label Content="Booking..." HorizontalAlignment="Left" Margin="65,79,0,0" VerticalAlignment="Top" Height="25" Width="170"/>
+
+    </Grid>
+</UserControl>
